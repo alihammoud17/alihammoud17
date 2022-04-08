@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alihammoud17
 - 👀 I’m interested in Full Stack Developement
-- 🌱 I’m currently learning ReactJS, java Spring Boot, SQL
+- 🌱 I’m currently learning ReactJS (Next.JS), Python Flask, PHP Laravel, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
