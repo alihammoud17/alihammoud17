@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alihammoud17
 - 👀 I’m interested in Full Stack Developement
 - 🌱 I’m currently learning ReactJS (Next.JS), Python Flask, PHP Laravel, SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ali_hammoud_17@hotmail.com
 
 <!---
 alihammoud17/alihammoud17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
