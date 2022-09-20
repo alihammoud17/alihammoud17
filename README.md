@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alihammoud17
 - 👀 I’m interested in Full Stack Developement
-- 🌱 I’m currently learning ReactJS (Next.JS), Python Flask, PHP Laravel, SQL
+- 🌱 I’m currently using ReactJS (Next.JS), Flutter, ASP.NET Core 6 , MSSQL
 - 📫 How to reach me ali_hammoud_17@hotmail.com
 
 <!---
